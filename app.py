@@ -14,7 +14,7 @@ st.markdown("""
 <div class="navbar">
   <a href="#Home">Home</a>
   <a href="#About">About</a>
-  <a href="#BackToWebsite">Back To Website</a>
+  <a href="https://techiehelpt.netlify.app/">Back To Website</a>
 </div>
 """, unsafe_allow_html=True)
 
